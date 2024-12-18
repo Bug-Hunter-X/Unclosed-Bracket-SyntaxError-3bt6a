@@ -1,0 +1,1 @@
+This repository contains a simple Python program demonstrating a common syntax error caused by an unclosed bracket. The `bug.py` file showcases the error. The `bugSolution.py` file provides the correct code.
